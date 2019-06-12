@@ -1,7 +1,7 @@
 # factrace
 Factorize an integer as fast as possible using the Pollard's Rho algorithm
 
-First rush : 48 hours to understand a concept and find the fastest solution.
+First rush : 48 hours to understand a concept and find the best solution.
 
 It was an intro to RSA code cracking by factorizing any big number as fast as possible. In order to do that, I implemented the Pollard's Rho algorithm.
 
